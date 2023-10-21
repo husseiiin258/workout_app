@@ -94,8 +94,8 @@ class ScreenOne extends StatelessWidget {
                         height: 60,
                         decoration: BoxDecoration(
                             border: Border.all(
-                                width: 6.0 ,
-                                color: Colors.grey),
+                                width: 10.0 ,
+                                color:Color(0xffE4E7EC)),
                             shape: BoxShape.circle,
                             image: DecorationImage(
                                 fit: BoxFit.contain,
@@ -121,8 +121,8 @@ class ScreenOne extends StatelessWidget {
                         height: 60,
                         decoration: BoxDecoration(
                             border: Border.all(
-                                width: 6.0 ,
-                                color: Colors.grey),
+                                width: 10.0 ,
+                                color:Color(0xffE4E7EC)),
                             shape: BoxShape.circle,
                             image: DecorationImage(
                                 fit: BoxFit.contain,
@@ -147,8 +147,8 @@ class ScreenOne extends StatelessWidget {
                         height: 60,
                         decoration: BoxDecoration(
                             border: Border.all(
-                                width: 6.0 ,
-                                color: Colors.grey),
+                                width: 10.0 ,
+                                color:Color(0xffE4E7EC)),
                             shape: BoxShape.circle,
                             image: DecorationImage(
                                 fit: BoxFit.contain,
@@ -173,8 +173,8 @@ class ScreenOne extends StatelessWidget {
                         height: 60,
                         decoration: BoxDecoration(
                             border: Border.all(
-                                width: 6.0 ,
-                                color: Colors.grey),
+                                width: 10.0 ,
+                                color:Color(0xffE4E7EC)),
                             shape: BoxShape.circle,
                             image: DecorationImage(
                                 fit: BoxFit.contain,
